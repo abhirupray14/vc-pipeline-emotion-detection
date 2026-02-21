@@ -6,6 +6,7 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+models/
 .Python
 env/
 build/
@@ -22,6 +23,8 @@ var/
 *.egg-info/
 .installed.cfg
 *.egg
+data/
+myvenv/
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
